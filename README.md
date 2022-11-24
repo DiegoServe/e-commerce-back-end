@@ -30,7 +30,7 @@ https://github.com/DiegoServe/e-commerce-back-end/tree/main
 
 - ### [Walkthrough demonstrating app functionality](https://drive.google.com/file/d/146MmxZx0oWCXdy9rV1g6obGzHaoYTrHt/view)
 
-- ### [Walkthrough demonstrating GET, PUT, POST, and DELETE functionality](./assests/video/get%2C%20put%2C%20post%2C%20delete%20functionality.webm)
+- ### [Walkthrough demonstrating GET, PUT, POST, and DELETE functionality](https://drive.google.com/file/d/1sBWyl_vEZvOjODC1bA-snW1z0pBc3B-P/view)
 
 ## Contact
 GitHub: https://github.com/DiegoServe 
