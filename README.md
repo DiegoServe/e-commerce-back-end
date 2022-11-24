@@ -13,8 +13,8 @@ With some source code already provided, Mysql and Sequelized were used to build 
 
 ## Installation
 
-1. Cone Repo:  
-https://github.com/DiegoServe/e-commerce-back-end/tree/main
+1. Clone Repo:  
+https://github.com/DiegoServe/e-commerce-back-end
 
 2. NPM Install Following Packages:
     - MySql2
